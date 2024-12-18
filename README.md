@@ -19,8 +19,3 @@ To run this project locally, follow these steps:
 - [Flutter](https://flutter.dev/docs/get-started/install) installed on your machine.
 - [Android Studio](https://developer.android.com/studio) or [VS Code](https://code.visualstudio.com/) with Flutter plugin.
 
-### Steps
-
-1. Clone this repository to your local machine:
-   ```bash
-   git clone https://github.com/username/task-manager.git
